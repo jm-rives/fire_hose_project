@@ -43,4 +43,28 @@ puts val
 val = 11.to_f / 2
 puts val
 
+val1 = "macaroni"
+val2 = " & cheese"
+puts val1 + val2
+
+val1 = "Hello"
+puts val1 * 10
+
+val1 = "10"
+puts val1 * 10
+
+result = 10 * 4 + 30 * 2 # 100
+puts result
+
+other_result = 10 * (4 + 30) * 2 # 680
+puts other_result
+
+next_result = 7 / 2
+
+puts next_result
+puts next_result.to_f
+
+
+
+
 
