@@ -1,5 +1,5 @@
 # FHP_EOex2.rb (EO = end of exercise)
-# from www.thefirehoseproject
+# from www.thefirehoseproject.com
 # developed by Joanna M. Rives jm-rives.github.io
 
 puts "What's your name?"
