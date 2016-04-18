@@ -1,5 +1,5 @@
 
-# FHP_math.rb(EO = end of exercise)
+# FHP_math.rb
 # from www.thefirehoseproject
 # developed by Joanna M. Rives jm-rives.github.io
 
