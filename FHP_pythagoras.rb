@@ -1,5 +1,5 @@
 # FHP_pythagoras.rb
-# from www.thefirehoseproject
+# from www.thefirehoseproject.com
 # developed by Joanna M. Rives jm-rives.github.io
 def pythagorean_theorem(a, b)
   a_squared = a * a 

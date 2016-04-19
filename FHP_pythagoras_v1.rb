@@ -1,5 +1,5 @@
 # FHP_pythagoras_v1.rb
-# from www.thefirehoseproject
+# from www.thefirehoseproject.com
 # developed by Joanna M. Rives jm-rives.github.io
 # refactoring FHP_pythagoras.rb
 
