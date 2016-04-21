@@ -1,5 +1,5 @@
 # FHP_double.rb
-# from www.thefirehoseproject
+# from www.thefirehoseproject.com
 # developed by Joanna M. Rives jm-rives.github.io
 def double(num)
   # puts 2 + 2 this line will run as it is above the return keyword
